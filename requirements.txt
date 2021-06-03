@@ -1,7 +1,0 @@
-PyMySQL~=1.0.2
-numpy~=1.20.3
-nltk~=3.6.2
-tflearn~=0.5.0
-Flask~=2.0.1
-gunicorn~=19.9.0
-tensorflow
